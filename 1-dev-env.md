@@ -2,21 +2,21 @@
 
 Editor olarak vscode kullaniliyor. 
 
-- Eslint
+## Eslint
 Yazilan kodun standartlara uyup uymadigini kontrol edecek. 
 
-- Styling
-css ve sass kodlarinin standart kontrolu icin kullaniliyor.
+## Stylelint
+`CSS` ve `SASS` kodlarinin standart kontrolu icin kullaniliyor.
 
-- Prettier
-Javascript kodunun 
+## Prettier
+Javascript kodunun duzeltmeleri icin kullaniliyor.
 
-- Jest
+## Jest
 Testleri calistirmak icin kullaniliyor.
 
-- Istanbul
+## Istanbul
 Testler konusunda coverage icin kullaniliyor
 
-- Travis 
+## Travis 
 Repoya deploy sirasinda testleri uygulayip pull requesti o sekilde kabul etmeyi sagliyor.
 
